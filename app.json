@@ -5,7 +5,7 @@
     "keywords": ["aslu", "T-EDZO"],
     "stack": "container",
     "env": {
-      "TREX_SESSION": {
+      "CONNECTION_CODE": {
             "description": "Paste your QR session that you got from https://replit.com/@TRexWa/T-REX-QR-SESSION .",
             "required": true
         },
