@@ -17,29 +17,31 @@ if (Config.WORKTYPE == 'private') {
        
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╹🔥 ⎝🛡️ ALPHA 🛡️⎠ *𝚂𝚁𝙸 𝙻𝙰𝙽𝙺𝙰 𝙱𝙴𝚂𝚃 𝚆.𝙰 𝙱𝙾𝚃* 🔥╹ 
 
-🖲️   *Owner & Founder - Achi Fernando ( Achiya )*
+🖲️   *ᴏᴡɴᴇʀ* - ᴀsʟᴜsᴇʀ
 
-🖲️   *Language - NODE JS*
+🖲️   *ʟᴀɴɢᴜᴀɢᴇ* - ɴᴏᴅᴇ.ᴊs
 
-🖲️   *Sponser Team - PEARL Team*
+🖲️   *ᴛᴇᴀᴍ* - ᴛᴇᴀᴍ ᴏɴɴᴜᴍ ɪʟʟᴀ
 
 
        💢 *𝘚𝘗𝘌𝘊𝘐𝘈𝘓 𝘛𝘏𝘈𝘕𝘒𝘚* 💢
 
-🍒 *Kasun Ravihara* 🍒
+🍒 *ᴛᴇᴅᴢᴏsᴇʀ* 🍒
 ➻ *ʙᴏᴛ ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢʜɴᴇʀ*
 
-🍒 *Hiruwa* 🍒
+🍒 *ᴀsʟᴜsᴇʀ* 🍒
 ➻ *Co Owner*
 
-🍒 *Thinura* 🍒
+🍒 *ʜᴇʀᴍɪᴛ* 🍒
 ➻ *Admin Manger*
+
+⬤ sᴀᴛʜʏᴀᴍ  ᴘᴀʀᴀɴɴᴀ ᴀʟʟ ɪɴ ᴀʟʟ😇
 
            🍒 *ᴀᴅᴍɪɴꜱ* ™🍒
 
-╹ 🔰 *Hirusha Rukshan* ╹
-╹ 🔰 *Kasun Ravihara*╹
-╹ 🔰 *Thinura*    ╹
+╹ 🔰 *ʜᴇʀᴍɪᴛ-sᴇʀ* ╹
+╹ 🔰 *ᴛᴇᴅᴢᴏ-sᴇʀ*╹
+╹ 🔰 *ᴇʟʟᴀᴍ ɴᴊᴀɴ ᴛʜᴀɴɴᴇ*    ╹
   
   https://api.whatsapp.com/message/STKRUWM327GCG1
 
@@ -55,33 +57,35 @@ else if (Config.WORKTYPE == 'public') {
             var image = await axios.get ('https://telegra.ph/file/cd6032c65c27e0510ddad.jpg', {responseType: 'arraybuffer'})
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╹🔥 ⎝🛡️ ALPHA 🛡️⎠ *𝚂𝚁𝙸 𝙻𝙰𝙽𝙺𝙰 𝙱𝙴𝚂𝚃 𝚆.𝙰 𝙱𝙾𝚃* 🔥╹ 
 
-🖲️   *Owner & Founder - Achi Fernando ( Achiya )*
+🖲️   *ᴏᴡɴᴇʀ* - ᴀsʟᴜsᴇʀ
 
-🖲️   *Language - NODE JS*
+🖲️   *ʟᴀɴɢᴜᴀɢᴇ* - ɴᴏᴅᴇ.ᴊs
 
-🖲️   *Sponser Team - PEARL Team*
+🖲️   *ᴛᴇᴀᴍ* - ᴛᴇᴀᴍ ᴏɴɴᴜᴍ ɪʟʟᴀ
 
 
        💢 *𝘚𝘗𝘌𝘊𝘐𝘈𝘓 𝘛𝘏𝘈𝘕𝘒𝘚* 💢
 
-🍒 *Kasun Ravihara* 🍒
+🍒 *ᴛᴇᴅᴢᴏsᴇʀ* 🍒
 ➻ *ʙᴏᴛ ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢʜɴᴇʀ*
 
-🍒 *Hiruwa* 🍒
+🍒 *ᴀsʟᴜsᴇʀ* 🍒
 ➻ *Co Owner*
 
-🍒 *Thinura* 🍒
+🍒 *ʜᴇʀᴍɪᴛ* 🍒
 ➻ *Admin Manger*
+
+⬤ sᴀᴛʜʏᴀᴍ  ᴘᴀʀᴀɴɴᴀ ᴀʟʟ ɪɴ ᴀʟʟ😇
 
            🍒 *ᴀᴅᴍɪɴꜱ* ™🍒
 
-╹ 🔰 *Hirusha Rukshan* ╹
-╹ 🔰 *Kasun Ravihara*╹
-╹ 🔰 *Thinura*    ╹
+╹ 🔰 *ʜᴇʀᴍɪᴛ-sᴇʀ* ╹
+╹ 🔰 *ᴛᴇᴅᴢᴏ-sᴇʀ*╹
+╹ 🔰 *ᴇʟʟᴀᴍ ɴᴊᴀɴ ᴛʜᴀɴɴᴇ*    ╹
   
   https://api.whatsapp.com/message/STKRUWM327GCG1
 
-   🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰` })
+   🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰`})
 
     }));
   
@@ -91,33 +95,35 @@ else if (Config.WORKTYPE == 'public') {
             var image = await axios.get ('https://telegra.ph/file/cd6032c65c27e0510ddad.jpg', {responseType: 'arraybuffer'})
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╹🔥 ⎝🛡️ ALPHA 🛡️⎠ *𝚂𝚁𝙸 𝙻𝙰𝙽𝙺𝙰 𝙱𝙴𝚂𝚃 𝚆.𝙰 𝙱𝙾𝚃* 🔥╹ 
 
-🖲️   *Owner & Founder - Achi Fernando ( Achiya )*
+🖲️   *ᴏᴡɴᴇʀ* - ᴀsʟᴜsᴇʀ
 
-🖲️   *Language - NODE JS*
+🖲️   *ʟᴀɴɢᴜᴀɢᴇ* - ɴᴏᴅᴇ.ᴊs
 
-🖲️   *Sponser Team - PEARL Team*
+🖲️   *ᴛᴇᴀᴍ* - ᴛᴇᴀᴍ ᴏɴɴᴜᴍ ɪʟʟᴀ
 
 
        💢 *𝘚𝘗𝘌𝘊𝘐𝘈𝘓 𝘛𝘏𝘈𝘕𝘒𝘚* 💢
 
-🍒 *Kasun Ravihara* 🍒
+🍒 *ᴛᴇᴅᴢᴏsᴇʀ* 🍒
 ➻ *ʙᴏᴛ ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢʜɴᴇʀ*
 
-🍒 *Hiruwa* 🍒
-➻ *Co Owner*
+🍒 *ᴀsʟᴜsᴇʀ* 🍒
+➻ *𝐎𝐖𝐍𝐄𝐑*
 
-🍒 *Thinura* 🍒
-➻ *Admin Manger*
+🍒 *ʜᴇʀᴍɪᴛ* 🍒
+➻ *𝐀𝐃𝐌𝐈𝐍*
+
+⬤ sᴀᴛʜʏᴀᴍ  ᴘᴀʀᴀɴɴᴀ ᴀʟʟ ɪɴ ᴀʟʟ😇
 
            🍒 *ᴀᴅᴍɪɴꜱ* ™🍒
 
-╹ 🔰 *Hirusha Rukshan* ╹
-╹ 🔰 *Kasun Ravihara*╹
-╹ 🔰 *Thinura*    ╹
+╹ 🔰 *ʜᴇʀᴍɪᴛ-sᴇʀ* ╹
+╹ 🔰 *ᴛᴇᴅᴢᴏ-sᴇʀ*╹
+╹ 🔰 *ᴇʟʟᴀᴍ ɴᴊᴀɴ ᴛʜᴀɴɴᴇ*    ╹
   
   https://api.whatsapp.com/message/STKRUWM327GCG1
 
-   🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰 `  ,quoted: message.data})
-
+   🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰`})
+   
     }));
 }
